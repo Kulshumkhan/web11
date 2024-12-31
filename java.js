@@ -1,0 +1,3 @@
+alert(
+    "Go and study"
+)
